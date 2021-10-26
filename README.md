@@ -1,4 +1,4 @@
-# re-Leaf
+# Re-Leaf
 Smart BLE based solution for Future proof Air Purification.
 
 The ancient civilizations were referring to copper, a material that cultures across the globe have recognized as vital to our health for more than 5,o00 years.
